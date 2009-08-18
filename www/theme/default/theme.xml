@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<theme>
+	<section type="header" id="header"></section>
+	<section type="menu" contains="categories calender" id="menu_left"></section>
+	<section type="menu" contains="navigation" id="top" class="menu shadow">menu: </section>
+	<section type="content" id="content" class="content"></section>
+	<section type="footer" id="footer" class="footer shadow"></section>
+</theme>

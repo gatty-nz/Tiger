@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<credits>
+	<details>
+		<author>reZo</author>
+		<email>flin.gs@gmail.com</email>
+		<description>Default theme for reZo Labs</description>
+		<date>1234567891</date>
+	</details>
+	<details>
+		<author>Second Author</author>
+		<email>second.author@rezolabs.com</email>
+		<description>i helped with this theme</description>
+		<date>1234567891</date>
+	</details>
+</credits>
