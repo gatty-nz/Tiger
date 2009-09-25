@@ -6,8 +6,7 @@
  * Allows a visitor to become a member, by registering an account
  * See documentation for user privileges, and how to change user access
  *
- * @author     Gareth Stones <gareth@rezolabs.com>
- * @copyright  July 7th 2007
+ * @author Gareth Stones <gareth@rezolabs.com>
  */
 
 $continue = true;
