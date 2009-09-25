@@ -6,7 +6,6 @@
  * Allows a user to access there account
  *
  * @author    Gareth Stones <gareth@rezolabs.com>
- * @copyright 5th December 2007
  */
 
 $continue = true;
